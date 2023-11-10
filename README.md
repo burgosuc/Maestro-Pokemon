@@ -11,5 +11,5 @@
 
 - [Jonathan Lopez](https://github.com/burgosuc/Maestro-Pokemon)
 
-# Desafío 3# Maestro Pokemon
-# Usando la Poke Api# Maestro-Pokemon
+# Desafío 3 # Maestro Pokemon
+# Usando la Poke Api # Maestro-Pokemon
