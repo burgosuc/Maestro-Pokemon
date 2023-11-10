@@ -13,3 +13,5 @@
 
 # Desafío 3 # Maestro Pokemon
 # Usando la Poke Api # Maestro-Pokemon
+
+Nota: ahora si logre instalar bien las extensiones para corregir los errores del codigo
